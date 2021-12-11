@@ -15,7 +15,7 @@ Depends: R (>= 3.5.0)
 Encoding: UTF-8
 LazyData: true
 LazyDataCompression: bzip2
-RoxygenNote: 7.1.0
+RoxygenNote: 7.1.2
 NeedsCompilation: no
 Maintainer: Anne Philippe <anne.philippe@univ-nantes.fr>
 Packaged: 2020-05-29 06:17:25 UTC; annephilippe
