@@ -11,6 +11,7 @@ Authors@R: c(
               )
 Description: Provides the data sets used to build the 'ArchaeoPhases' vignettes.  The data sets were formerly distributed with 'ArchaeoPhases', however they exceed current CRAN policy for package size.
 License: GPL-3
+URL: https://github.com/ArchaeoStat/ArchaeoPhases.dataset
 Depends: R (>= 3.5.0)
 Encoding: UTF-8
 LazyData: true
